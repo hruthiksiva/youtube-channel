@@ -1,0 +1,26 @@
+This folder contains all the hello world programs from the youtube video : https://youtu.be/Gsxrte7Yo6w
+Ada 
+Assembly 
+Bash 
+C 
+C++ 
+Elixir 
+Fortron 
+GO 
+Haskell 
+HTML 
+Java 
+Javascript 
+Kotlin 
+Lua 
+Pascal 
+Perl 
+PHP 
+Python 
+QBasic 
+R 
+Ruby 
+Rust 
+Scala 
+Swift 
+Typescript 
